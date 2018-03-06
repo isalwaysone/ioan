@@ -1,12 +1,14 @@
-##圖片授權
+# 莫風徵伴侶，webpage since 2015
+
+## 圖片授權
 待補充
 
-##使用範本
-Parallelism by HTML5 UP  
-html5up.net | @n33co  
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)  
+## 使用範本
+Parallelism by HTML5 UP
+html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-##使用技術
+## 使用技術
 Icons:
 * Font Awesome (fortawesome.github.com/Font-Awesome)
 
